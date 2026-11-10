@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Security+ exam voucher",
+    "url": "https://example.com/replace-with-real-product-page",
+    "selector": ".price"
+  },
+  {
+    "name": "Another cert",
+    "url": "https://example.com/another-product-page",
+    "selector": "span.product-price"
+  }
+]
