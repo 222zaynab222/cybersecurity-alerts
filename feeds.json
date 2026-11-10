@@ -1,0 +1,14 @@
+[
+  {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/", "category": "attack"},
+  {"name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews", "category": "attack"},
+  {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/", "category": "attack"},
+  {"name": "CISA Advisories", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml", "category": "attack"},
+  {"name": "Google Security Blog", "url": "https://security.googleblog.com/feeds/posts/default", "category": "tech"},
+  {"name": "Schneier on Security", "url": "https://www.schneier.com/feed/atom/", "category": "tech"},
+  {
+    "name": "The Record (policy & law)",
+    "url": "https://therecord.media/feed",
+    "category": "law",
+    "keywords": ["law", "legislation", "bill", "regulation", "regulator", "directive", "GDPR", "NIS2", "sanction", "court", "fine", "congress", "senate", "parliament", "policy"]
+  }
+]
